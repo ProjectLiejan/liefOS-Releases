@@ -1,5 +1,6 @@
 # liefOS
 Download liefOS here now! (See Releases)
+https://github.com/ProjectLiejan/liefOS-Releases/releases
 
 # Notice:
 Current version: Aqua 2.4-2025
